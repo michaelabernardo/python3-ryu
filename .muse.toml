@@ -1,1 +1,1 @@
-verifiers = ["bandit", "eslint", "shellcheck"]
+tools = ["eslint"]

@@ -1,1 +1,1 @@
-ignore = ["Unbound Name"]
+tools = ["bandit", "eslint", "shellcheck"]
